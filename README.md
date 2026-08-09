@@ -5,9 +5,9 @@ My Computer Science and Engineering learning journey.
 ## Skills
 - Python
 - C
-- C++
-- AI Tools
-- Agentic AI
+- C++ basics
+- AI Tools basics
+- Agentic AI basics
 
 ## About
 I will be learning new technologies and building projects throughout my college journey.
